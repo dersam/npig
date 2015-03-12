@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dersam/npig/issues"
   },
-  "homepage": "https://github.com/dersam/npig"
+  "homepage": "https://github.com/dersam/npig",
+  "dependencies": {
+    "commander": "^2.7.1"
+  }
 }
