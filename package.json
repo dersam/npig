@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dersam/npig",
   "dependencies": {
+    "cli-color": "^0.3.2",
     "commander": "^2.7.1",
     "git-shizzle": "0.0.3",
     "passwd-user": "^1.1.1"
