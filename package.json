@@ -21,10 +21,12 @@
   },
   "homepage": "https://github.com/dersam/npig",
   "dependencies": {
-    "commander": "^2.7.1"
+    "commander": "^2.7.1",
+    "nodegit": "^0.2.7",
+    "passwd-user": "^1.1.1"
   },
   "preferGlobal": "true",
   "bin": {
-    "npig" : "lib/npig.js"
+    "npig": "lib/npig.js"
   }
 }
