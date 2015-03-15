@@ -4,6 +4,6 @@
     "url":"git@github.com:dersam/dotart.git",
     "post-install":null,
     "post-update":null,
-    "shellhook":"source %REPOPATH%/animals"
+    "sourceFiles":["animals"]
   }
 ]
