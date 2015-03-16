@@ -4,6 +4,7 @@
     "url":"git@github.com:dersam/dotart.git",
     "post-install":null,
     "post-update":null,
-    "sourceFiles":["animals"]
+    "sourceFiles":["animals"],
+    "bashrcExec":["##custom commands go here"]
   }
 ]
