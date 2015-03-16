@@ -22,3 +22,4 @@ your packages.  This is good for if you change your bashExec or sourceFiles conf
 *   Get hash info from repo to determine if cloning was successful.
 *   Add packages via cli, without an installation manifest.
 *   Remove individual packages via cli.
+*   Add checking for a pigfile in the repository root, for auto-execution.
